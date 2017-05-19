@@ -13,7 +13,7 @@ const PADDLE_THICKNESS = 15;
 
 var playerScore = 0;
 var cpuScore = 0;
-const WIN_SCORE = 1;
+const WIN_SCORE = 3;
 var winScreen = false;
 
 function setMousePos(evt){     //nastiest code i've seen till now (._.')
